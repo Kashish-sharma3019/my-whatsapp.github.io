@@ -1,0 +1,52 @@
+.text1{
+
+	font-size: 1.5rem;
+
+	margin-top: 5%;
+
+
+
+width:40%;
+
+border: inset;
+
+border-color: SlateBlue;
+
+border-radius: 1rem;
+
+background-color:LightGray;
+
+}
+
+.text2{
+
+	font-size: 1.5rem;
+
+	width:40%;
+
+border: inset;
+
+margin-left:50%;
+
+background-color: LightGray;
+
+border-color: SlateBlue;
+
+border-radius: 1rem;
+
+}
+.card-title
+
+{
+
+	font-size: 2rem;
+     text-align:center;
+	font-weight: bolder;
+}
+.notify{
+	background-color:lightgrey;
+}
+.notify1{
+	text-align:right;
+	font-weight:bold;
+}
